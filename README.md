@@ -26,6 +26,10 @@ Check out my repos to see what I've been up to.
   
 </p>
 
+<p align='center'>
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ielson&layout=compact&theme=tokyonight />
+</p>
+
 ## Current project
 
 I'm currently working on [djiBote](https://github.com/ielson/djibote). An android app that is a bridge between closed DJI drones (like Spark) and ROS (Robot Operating System) allowing aircraft control and sensor reading through topics, that aims to enable more robust control to the basic drones.
@@ -35,6 +39,11 @@ Current Status
 - [x] Receive sensor info
 - [ ] Send control info to the drone
 - [ ] Receive camera data
+
+<p align='center' >
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ielson&theme=tokyonight" />
+</p>
+
 
 
 <!--
