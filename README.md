@@ -4,12 +4,12 @@
     <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ielson&theme=tokyonight' />
 </p>
 
-I'm Dan Mascarenhas, a robotics enthusiast who works at Siemens Healthineers and is currenty at a master degree course in mobile robotics at [@lar-deeufba](https://github.com/lar-deeufba) . 
+I'm Dan Mascarenhas, a robotics enthusiast working at Siemens Healthineers, and currently pursuing a master's degree in mobile robotics at [@lar-deeufba](https://github.com/lar-deeufba) . 
 
-I've worked on projects related to robotics, most of them using the [@husky robot](https://github.com/husky) Robot and DJI drones, like Spark and with some automation projets too. I'm a big fan of ROS and Python. 
-Currently, I'm expanding my skill set by learning machine learning and computer vision techniques at my master course in mobile robotics. In the future, I'd love to work with companies or on projects that develop new robots where I can use the know-how of the projects I had worked with. 
+I've worked on various robotics projects, most of them using the [@husky robot](https://github.com/husky) and DJI drones like Spark, as well as some automation projects. I'm a big fan of ROS and Python. 
+Currently, I'm expanding my skill set by learning machine learning and computer vision techniques through my master's course in mobile robotics. In the future, I'd love to work with companies or on projects that develop new robots where I can apply the know-how from the projects I've worked on.
 
-Outside of coding, you can find me often training for triathlon competitions or repairing MRi and CT machines, what I do for work. 
+Outside of coding, you can often find me training for triathlon competitions or repairing MRI and CT machines, which is part of my job.
 Let's connect and talk tech, robots, or anything in between! 
 Check out my repos to see what I've been up to.
 
@@ -31,15 +31,24 @@ If you wanna reach, you can do this in any of these channels:
     </a>
 </p>
 
-## Current project
+## Current projects
 
-I'm currently working on [djiBote](https://github.com/ielson/djibote). An android app that is a bridge between closed DJI drones (like Spark) and ROS (Robot Operating System) allowing aircraft control and sensor reading through topics, that aims to enable more robust control to the basic drones.
+Currently, I'm dividing my time among three projects, which include:
+
+### [djiBote](https://github.com/ielson/djibote) 
+An Android app that serves as a bridge between closed DJI drones (like Spark) and ROS (Robot Operating System), allowing aircraft control and sensor reading through topics. The goal is to enable more robust control for basic drones.
 
 Current Status
 
 - [x] Receive sensor info
 - [ ] Send control info to the drone
 - [ ] Receive camera data
+
+### Master degree 
+in Mobile robotics at [LaR Robotics](https://github.com/lar-deeufba)
+
+### [freeCodeCamp](https://github.com/ielson/FCCWebDesign)
+fullStack developer course
 
 <p align='center' >
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ielson&theme=tokyonight" />
