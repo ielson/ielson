@@ -1,7 +1,7 @@
 ## Hi there
 
 <p align='center'>
-    <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ielson&theme=tokyonight' />
+    <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ielson&theme=tokyonight&count_private=true&show_icons=true' />
 </p>
 
 I'm Dan Mascarenhas, a robotics enthusiast working at Siemens Healthineers, and currently pursuing a master's degree in mobile robotics at [@lar-deeufba](https://github.com/lar-deeufba) . 
