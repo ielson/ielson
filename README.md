@@ -1,9 +1,12 @@
 ## Hi there
 
+<p align='center'>
+    <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ielson&theme=tokyonight' />
+</p>
+
 I'm Dan Mascarenhas, a robotics enthusiast who works at Siemens Healthineers and is currenty at a master degree course in mobile robotics at [@lar-deeufba](https://github.com/lar-deeufba) . 
 
-I've worked on projects related to robotics, most of them using the [@husky robot](https://github.com/husky) Robot and DJI drones, like Spark and with some automation projets too. I'm a big fan of <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> and 
-<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" />. 
+I've worked on projects related to robotics, most of them using the [@husky robot](https://github.com/husky) Robot and DJI drones, like Spark and with some automation projets too. I'm a big fan of ROS and Python. 
 Currently, I'm expanding my skill set by learning machine learning and computer vision techniques at my master course in mobile robotics. In the future, I'd love to work with companies or on projects that develop new robots where I can use the know-how of the projects I had worked with. 
 
 Outside of coding, you can find me often training for triathlon competitions or repairing MRi and CT machines, what I do for work. 
