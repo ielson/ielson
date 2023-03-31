@@ -1,9 +1,7 @@
 ## Hi there
 
 I'm Dan Mascarenhas, a robotics enthusiast who works at Siemens Healthineers and is currenty at a master degree course in mobile robotics at @lar-deeufba. 
-
 I've worked on projects related to robotics, most of them using the @husky Robot and DJI drones, like Spark and with some automation projets too. I'm a big fan of Python and ROS. 
-
 Currently, I'm expanding my skill set by learning machine learning and computer vision techniques at my master course in mobile robotics. In the future, I'd love to work with companies or on projects that develop new robots where I can use the know-how of the projects I had worked with. 
 
 Outside of coding, you can find me often training for triathlon competitions or repairing MRi and CT machines, what I do for work. 
