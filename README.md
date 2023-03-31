@@ -13,21 +13,22 @@ Outside of coding, you can find me often training for triathlon competitions or 
 Let's connect and talk tech, robots, or anything in between! 
 Check out my repos to see what I've been up to.
 
-<p align='center'>
-
-
-  
-  <a href="https://www.linkedin.com/in/dmascarenhas/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/ielsonz">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
 
 <p align='center'>
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ielson&layout=compact&theme=tokyonight />
+</p>
+
+If you wanna reach, you can do this in any of these channels:
+<p align='center'>
+    <a href="https://www.linkedin.com/in/dmascarenhas/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:danmascandrade@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+    </a>
+    <a href="https://twitter.com/ielsonz">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+    </a>
 </p>
 
 ## Current project
