@@ -12,8 +12,8 @@ Let's connect and talk tech, robots, or anything in between!
 
 Check out my repos to see what I've been up to.
 
-### Current project
----
+## Current project
+
 I'm currently working on @djiBote. An android app that is a bridge between closed DJI drones (like Spark) and ROS (Robot Operating System) allowing aircraft control and sensor reading through topics, that aims to enable more robust control to the basic drones.
 
 Current Status
