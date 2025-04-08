@@ -1,15 +1,16 @@
-## Hi there
+## Hi there, I'm Daniel Mascarenhas
 
+
+I'm a robotics enthusiast currently working at Sonsub, part of Saipem, where I help develop and deploy advanced robotic solutions for underwater inspection with autonomous vehicles like the Flatfish AUV—capable of inspecting structures down to 3000 meters deep!
 <p align='center'>
-    <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ielson&theme=tokyonight&count_private=true&show_icons=true' />
+<img src='(https://github.com/user-attachments/assets/6489ed27-a402-4475-95b5-2fe96d997279'/>
 </p>
 
-I'm Dan Mascarenhas, a robotics enthusiast working at Siemens Healthineers, and currently pursuing a master's degree in mobile robotics at [@lar-deeufba](https://github.com/lar-deeufba) . 
+I'm also pursuing a master's degree in mobile robotics at at [@lar-deeufba](https://github.com/lar-deeufba), exploring areas like trajectory planning, obstacle avoidance, reinforcement learning (SAC & PPO algorithms), using tools like ROS, Gazebo, Unity and OMPL.
 
-I've worked on various robotics projects, most of them using the [@husky robot](https://github.com/husky) and DJI drones like Spark, as well as some automation projects. I'm a big fan of ROS and Python. 
-Currently, I'm expanding my skill set by learning machine learning and computer vision techniques through my master's course in mobile robotics. In the future, I'd love to work with companies or on projects that develop new robots where I can apply the know-how from the projects I've worked on.
+Previously, I've worked on projects involving Clearpath Robotics' [@husky robot](https://github.com/husky) and DJI drones like Spark, as well as some automation projects. I'm a big fan of ROS, C++ and Python. Currently, I'm expanding my skill set by learning machine learning and computer vision techniques through my master's course in mobile robotics. 
 
-Outside of coding, you can often find me training for triathlon competitions or repairing MRI and CT machines, which is part of my job.
+When I'm not coding, you might find me training for triathlon or or exploring new places. 
 Let's connect and talk tech, robots, or anything in between! 
 Check out my repos to see what I've been up to.
 
@@ -33,40 +34,15 @@ If you wanna reach, you can do this in any of these channels:
 
 ## Current projects
 
-Currently, I'm dividing my time among three projects, which include:
+Currently, I'm dividing my time among these exciting projects:
 
-### [djiBote](https://github.com/ielson/djibote) 
-An Android app that serves as a bridge between closed DJI drones (like Spark) and ROS (Robot Operating System), allowing aircraft control and sensor reading through topics. The goal is to enable more robust control for basic drones.
+### [Underwater Robotics at Saipem](https://www.saipem.com/en/solutions-energy-transition/robotic-solution) 
+Developing autonomous underwater vehicles like Flatfish for deep-sea inspection and monitoring of offshore infrastructure.
 
-Current Status
+### Master's Degree in Mobile Robotics
+At [LaR Robotics](https://github.com/lar-deeufba), focusing on advanced trajectory planning, reinforcement learning, and robotics simulations. 
 
-- [x] Receive sensor info
-- [ ] Send control info to the drone
-- [ ] Receive camera data
-
-### Master degree 
-in Mobile robotics at [LaR Robotics](https://github.com/lar-deeufba)
-
-### [freeCodeCamp](https://github.com/ielson/FCCWebDesign)
-fullStack developer course
 
 <p align='center' >
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ielson&theme=tokyonight" />
 </p>
-
-
-
-<!--
-**ielson/ielson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
