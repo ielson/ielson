@@ -8,7 +8,7 @@ I'm a robotics enthusiast currently working at Sonsub, part of Saipem, where I h
 
 
 
-I'm also pursuing a master's degree in mobile robotics at at [@lar-deeufba](https://github.com/lar-deeufba), exploring areas like trajectory planning, obstacle avoidance, reinforcement learning (SAC & PPO algorithms), using tools like ROS, Gazebo, Unity and OMPL.
+I'm also pursuing a master's degree in mobile robotics at at [@lar-deeufba](https://github.com/lar-deeufba), exploring areas like trajectory planning, obstacle avoidance, reinforcement learning (SAC & PPO algorithms), using tools like ROS, Gazebo, Unity, Gym and OMPL.
 
 Previously, I've worked on projects involving Clearpath Robotics' [@husky robot](https://github.com/husky) and DJI drones like Spark, as well as some automation projects. I'm a big fan of ROS, C++ and Python. Currently, I'm expanding my skill set by learning machine learning and computer vision techniques through my master's course in mobile robotics. 
 
