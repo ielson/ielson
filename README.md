@@ -3,8 +3,10 @@
 
 I'm a robotics enthusiast currently working at Sonsub, part of Saipem, where I help develop and deploy advanced robotic solutions for underwater inspection with autonomous vehicles like the Flatfish AUV—capable of inspecting structures down to 3000 meters deep!
 <p align='center'>
-<img src='(https://github.com/user-attachments/assets/6489ed27-a402-4475-95b5-2fe96d997279'/>
+    <img src=https://github.com/user-attachments/assets/1f425097-2ebb-4961-bc1a-1a015c3534ca />
 </p>
+
+
 
 I'm also pursuing a master's degree in mobile robotics at at [@lar-deeufba](https://github.com/lar-deeufba), exploring areas like trajectory planning, obstacle avoidance, reinforcement learning (SAC & PPO algorithms), using tools like ROS, Gazebo, Unity and OMPL.
 
